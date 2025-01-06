@@ -1,3 +1,3 @@
 # Banco-de-Dados-JDBC
 
-Codigo simples de um CRUD, em java utlizando JDBC juntamente com o banco de dados MYSQL
+Um CRUD que recebe e guarda informações em Banco de dados. Seria usado para um projeto de API.
